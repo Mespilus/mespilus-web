@@ -5,6 +5,7 @@ languageCode = "es-ca"
 defaultContentLanguage = "ca"
 enableRobotsTXT = true
 disableRSS = true
+publishDir = "docs"
 
 [params]
   title = "Mespilus"
