@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thewaywest.github.io/mespilus//sitemap.xml
+Sitemap: https://thewaywest.github.io//sitemap.xml
