@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "Mespilus - Cooperativa de Consum Responsable del Poblenou"
+baseURL = "http://example.org/"
+theme = "dimension"
