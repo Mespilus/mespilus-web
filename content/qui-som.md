@@ -5,6 +5,7 @@ title = "Qui som?"
 draft = false
 menu = true
 +++
+{{< figure src="/images/cropped-logo-mespilus3.jpg" width="100%" class="align-center m-logo">}}
 
 ### Què és Mespilus?
 
@@ -12,7 +13,7 @@ Mespilus és una societat cooperativa de consum ecològic i responsable, que té
 
 Constituïda el 10 de setembre de 2008, formada i autogestionada per 36 socis, amb participació directe i compromesa de tots ells.En ella pretenem adquirir productes de qualitat altament ecològica, amb preus competitius respecte els productes comercials.
 
-{{< figure src="/images/mespilus-productes-estanteria-300x185.jpg" caption="Mespilus estanteria" class="align-center">}}
+{{< figure src="/images/mespilus-productes-estanteria-300x185.jpg" caption="Mespilus estanteria" width="400px" class="align-center">}}
 
 #### Mespilus és una societat cooperativa sense ànim de lucre, gestionada democràticament pels socis, adquirint un compromís de:
 
@@ -29,7 +30,7 @@ Constituïda el 10 de setembre de 2008, formada i autogestionada per 36 socis, a
 
     equitat · solidaritat · responsabilitat social · voluntat transformadoraEstanteria
 
-{{< figure src="/images/mespilus-productes-224x300.jpg" caption="Mespilus productes" class="align-center">}}
+{{< figure src="/images/mespilus-productes-224x300.jpg" caption="Mespilus productes" width="300px" class="align-center">}}
 
 #### Consum ecològic:
 

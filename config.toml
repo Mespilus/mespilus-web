@@ -14,24 +14,14 @@ publishDir = "docs"
   copyright = "27 Juli 2017"
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
-
-[[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
-
-[[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  link = "#"
+  link = "https://www.facebook.com/Mespiluspoblenou"
 
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/mespilus"
 
 [languages]
 [languages.ca]
