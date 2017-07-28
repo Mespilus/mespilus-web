@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://mespilus.thewaywest.org/sitemap.xml
+Sitemap: http://bloc.mespilus.org/sitemap.xml
