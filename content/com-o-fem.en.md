@@ -5,55 +5,59 @@ weight = 2
 draft = false
 menu = true
 +++
+{{< figure src="/images/mespilus-flor.jpg" width="300px" class="align-center">}}
 
-### Com ens organitzem?
+### How are we organized?
 
-#### Consum setmanal
+#### Weekly Orders
 
-Adquirir productes a la cooperativa regularment és imprescindible per a la seva viabilitat.
+To have a viable food cooperative, it is essential to bring fresh products and produce in on a weekly basis.
 
-#### Preparació de comandes / Neteja i manteniment
+#### Order Preparation / Cleaning & Maintenance
 
-Cal que tots els socis formin part d’un grup de preparació de comandes o d’un grup de neteja i manteniment (segons un calendari establert).
+To that end, members either take part in a group that distributes produce to the cooperative "baskets", or in groups that clean and maintain the space, based on a rotating schedule.
 
-#### L’Assemblea general
+#### General Assembly
 
-L’òrgan sobirà de la cooperativa. Son anuals (trimestrals) i d’obligada assistència.
+This is the managing body of the cooperative. There is an annual meeting, and quarterly focused gatherings. Attendance is required for all members.
 
-#### Grup dinamitzador
+#### Group "Energizers"
 
-Reunió mensual dels socis i de les sòcies on es resolen qüestions de la gestió diària o assumptes urgents de la cooperativa.
+Monthly meetings held just after product pickup, where day-to-day issues are discussed or urgent issues are handled.
 
-#### Grups de treball
+#### Work Groups
 
-Tots els socis i sòcies s’incorporen a alguna de les diferents àrees de treball en funció dels seus coneixements o experiència:
+All members support the cooperative by taking part in one of the various work groups, based on knowledge and experience:
 
-1. *Comptabilitat i administració*
+1. *Accounting and Administration*
 
-    Gestionar la comptabilitat general de la cooperativa i les obligacions legals corresponents.
-    Actualitzar i mantenir els arxius i la base de dades de les persones associades.
+    Manage financial accounting for the cooperative along with the sorresponding legal requirements.
+    Maintain documentation and the member database.
 
-2. Facturació
+2. *Billing*
 
-    Gestionar i emetre setmanalment les factures corresponents de cada persona associada.
+    Prepare and process the weekly shopping bills accrued by the members.
 
-3. Compres
+3. *Purchasing*
 
-    Abastir a la cooperativa dels productes necessaris i d’acord amb els criteris establers.
-    Verificar els controls de qualitat de tots els productes.
+    Keep the cooperative stocked with produce and handle weekly orders, according to criteria established by the members.
+    Verify quality control over all purchased products.
 
-4. Infraestructura
+4. *Intrastructure*
 
-    Mantenir i millorar les instal·lacions i equipaments de la cooperativa.
-    Organitzar el reciclatge de materials.
+    Maintain and improve the cooperative's site and equipment.
+    Organize recycling.
 
-5. Relacions externes
+5. *Relacions externes*
 
-    Promoure el consum ecològic i responsable fora de l’àmbit de Mespilus. (pendent)
-    Relacions amb altres entitats: Cooperatives, Ecoconsum, Fires… (pendent)
-   Coordinar la participació en campanyes d’accions socials. (pendent)
+    Promote sustainable and organic foods and practices outside of Mespilus
+    Maintain relations with similar entities: Cooperatives, Ecological Fairs, etc.
+    Coordinate our participation in social action movements.
 
-6. Comunicació
+6. *Comunicació*
 
-   Distribuir informacions actualitzades i periòdiques a les persones associades.
-   Coordinar les tasques dels diferents grups de treball dins la cooperativa.
+    Manage and maintain the cooperative's digital infrastructure.
+    Distribute current information and documentation to members and the public.
+    Coordinate tasks for the cooperative's various working groups.
+
+{{< figure src="/images/mespilus-fruta.jpg" width="300px" class="align-center">}}

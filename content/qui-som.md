@@ -5,7 +5,7 @@ title = "Qui som?"
 draft = false
 menu = true
 +++
-{{< figure src="/images/cropped-logo-mespilus3.jpg" width="100%" class="align-center m-logo">}}
+{{< figure src="/images/cropped-logo-mespilus3.png" width="100%" class="align-center m-logo">}}
 
 ### Què és Mespilus?
 
