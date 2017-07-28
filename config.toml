@@ -1,4 +1,4 @@
-baseURL = "https://thewaywest.github.io/mespilus"
+baseURL = "http://mespilus.thewaywest.org"
 title = "Mespilus - Cooperativa de Consum Responsable del Poblenou"
 theme = "dimension"
 languageCode = "es-ca"
@@ -10,7 +10,7 @@ publishDir = "docs"
 [params]
   title = "Mespilus"
   description = '<!--[-->Cooperativa de Consum Responsable del Poblenou<!--]-->'
-  logo = "fa-diamond"
+  logo = "fa-shopping-cart"
   copyright = "27 Juli 2017"
 
 [[params.social]]
