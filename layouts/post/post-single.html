@@ -1,0 +1,14 @@
+{{ $featured_image := .Params.featured_image }}
+
+<hr />
+<a target="_blank" href="{{ .URL }}">
+  <div>
+    <h3>{{ .Title }}</h3>
+    {{ if or .Params.author .Params.date }}
+      <h5>{{ .Params.author }}{{ if .Date }} -- {{ .Date.Format "Monday, March 1, 2006" }}{{ end }}</h5>
+    {{ end }}
+    <div>
+      {{ .Content }}
+    </div>
+  </div>
+</a>

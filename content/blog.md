@@ -6,3 +6,4 @@ draft = false
 menu = true
 +++
 
+{{% blog-top-entries %}}

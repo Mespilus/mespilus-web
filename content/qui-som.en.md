@@ -9,9 +9,9 @@ menu = true
 
 ### What is Mespilus?
 
-Mespilus és una societat cooperativa de consum ecològic i responsable, que té per objectiu oferir béns alimentaris de caràcter ecològic,artesanal i solidari, així com la prestació de serveis relacionats amb la salut per al consum directe dels socis i de les sòcies i de llurs familiars i el desenvolupament de les activitats necessàries per a una major informació, formació i defensa dels drets dels consumidors i usuaris.
+Mespilus is a sustainable and responsable buyer's cooperative, offering organic, local and artisanal foods, as well as health-related services, direct to the members and their families. We also develop programs necessary to improve information, education and the defense of consumers' and users' rights.
 
-Constituïda el 10 de setembre de 2008, formada i autogestionada per 36 socis, amb participació directe i compromesa de tots ells.En ella pretenem adquirir productes de qualitat altament ecològica, amb preus competitius respecte els productes comercials.
+The cooperative was founded on the 10th of September, 2008 by a self-managed group of 36 members, dedidcated to direct participation. The cooperative's goal is to purchse highest-quality organic and local produce, with prices that are competitive with commercial groceries.
 
 {{< figure src="/images/mespilus-productes-estanteria-300x185.jpg" caption="Mespilus estanteria" width="400px" class="align-center">}}
 
@@ -25,36 +25,36 @@ Constituïda el 10 de setembre de 2008, formada i autogestionada per 36 socis, a
     We make strategic decisions as a group, sharing the economic and social responsibilities that come with membership.
 3. Self-motivation:
 
-    Cada soci i sòcia es responsabilitza de la seva àrea de treball, en un entorn de confiança, transparència i ajuda mútua.   
+    Each members takes responsibility for their area of work, in an environment of mutual trust, transparency and support.   
 4. Share cooperative values:
 
     Equality · Solidarity · Social Responsibility · Desire for Transformation
 
 {{< figure src="/images/mespilus-productes-224x300.jpg" caption="Mespilus productes" width="300px" class="align-center">}}
 
-#### Consum ecològic:
+#### Consume organic
 
-* Tenim el propòsit d’aconseguir una millor qualitat de vida col·lectiva i optem pel consum de productes ecològics, és a dir, aquells que es caracteritzen pel seu caràcter respectuós amb l’entorn i el consumidor.
-* Producció agrària ecològica.
-* Rebutgem els organismes modificats genèticament (transgènics).
-* Aliments pròxims, distribuïts i envasats amb la mínima generació de residus. Evitant un ús excessiu de transport.
-* Produccions sostenibles amb el medi ambient i que beneficiïn els sistemes naturals.
+* Our intention is to acheive the highest possible quality of life, in collective terms, and so we choose sustainably-grown organic produce and products, that respoect both environment and cunsumer.
+* Organic farming.
+* Reject genetically modified (GMO or transgenic) foods.
+* Locally grown, packaged and distributed with the minimum amount of waste, and avoiding excess transportation.
+* Sustainable production to support natural systems.
 
-#### Consum responsable:
+#### Consume responsibly
 
-* Consum conscient i crític, basats en criteris ètics. Productes obtinguts en sistemes socialment justos.
+* Conscious and critical consumption, based on ethical principles. Produce and products sourced in socially just operations.
 
-#### Hàbits de consum
+#### Habits of consumption
 
-* Consumim allò que realment necessitem.
-* Consumim amb ordre i sense compres compulsives.
-* Planifiquem i estructurem la nostra compra.
+* Consume only what is truly necessary.
+* Orderly consumption, avoiding compulsive purchases.
+* Planning and structuring our purchases.
 
-#### Productes i productors directes i de proximitat
+#### Local and direct produce and producers
 
-* Prioritzem l’adquisició de productes directament al productor i preferentment locals.
-* Consumim productes de comerç just.
+* Prioritize purchases direct from the producer, preferably local.
+* Consume fair trade products.
 
-#### Productes de temporada
+#### Season products
 
-* Promovem el consum prioritari de productes de temporada per a una gestió agrària més respectuosa amb l’entorn i els cicles vitals de l’ésser humà.
+* Prioritize products that are in season, promoting agriculture that is respectful of the environment and the life cycle of being human.

@@ -1,0 +1,5 @@
+{{ range first 4 (where .Site.Pages "Section" "post").ByDate.Reverse }}
+  <div>
+    {{ .Render "post-single" }}
+  </div>
+{{ end }}
