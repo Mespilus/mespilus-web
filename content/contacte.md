@@ -14,39 +14,10 @@ Ens podreu trobar al<br />
 
 #### Enviar una missatge
 
-Estás interessat/da en rebre información sobre la cooperativa per formar-ne part? Ets un productor o proveïdor de productes d’agricultura biològica, comerç just o altres que puguin estar en sintonia amb els nostres principis? Completa el formulari seguënt i prem *enviar* -- el grup de comunicaciò responderan en breu:  
+Estás interessat/da en rebre información sobre la cooperativa per formar-ne part? Ets un productor o proveïdor de productes d’agricultura biològica, comerç just o altres que puguin estar en sintonia amb els nostres principis? 
 
-<form id="contactform" method="post" action="https://formspree.io/markschultz@thewaywest.com">
-	<div class="field half first">
-		<input type="text" name="name" id="name" placeholder="Nom complet"/>
-	</div>
-	<div class="field half">
-		<input type="email" id="email" name="email" placeholder="Correu electrònic">
-	</div>
-	<div class="field">
-		<textarea name="message" id="message" rows="4" placeholder="Missatge"></textarea>
-	</div>
-	<ul class="actions">
-		<li><input type="submit" value="Enviar missatge" class="special" /></li>
-		<li><input type="reset" value="Esborra entrades" /></li>
-	</ul>
-	<input type="hidden" name="_next" value="?sent#formspree" />
-	<input type="hidden" name="_subject" value="Missatge del web" />
-	<input type="text" name="_gotcha" style="display:none" />
-</form>
-<span id="contactformsent">Gràcies pel teu missatge! Algu us tornarà a contactar aviat.</span>
+Feu clic al el seguënt enllaç -- el grup de comunicaciò responderan en breu:  
 
-<script>
-$(document).ready(function($) { 
-    $(function(){
-        if (window.location.search == "?sent") {
-        	$('#contactform').hide();
-        	$('#contactformsent').show();
-        } else {
-        	$('#contactformsent').hide();
-        }
-    });
-});
-</script>
+<a href="mailto:info@mespilus.org?Subject=Més%20informació%20si%20us%20plau!" target="_top"><b>Enviar correu</b></a>
 
 {{< socialLinks >}}

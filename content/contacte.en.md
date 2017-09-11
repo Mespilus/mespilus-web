@@ -14,39 +14,8 @@ You can find us at<br />
 
 #### Send us a message
 
-Would you like to receive more information about Mespilus, or join us? Are you a producer or distributor or organic produce or products,a "fair trade" company, or another association aligned with our core principals? Fill out the form below and click *send* -- the communications team will reply shortly:  
+Would you like to receive more information about Mespilus, or join us? Are you a producer or distributor or organic produce or products, a "fair trade" company, or another association aligned with our core principals? FSend an email using the link below -- the communications team will reply shortly:  
 
-<form id="contactform" method="post" action="https://formspree.io/markschultz@thewaywest.com">
-	<div class="field half first">
-		<input type="text" name="name" id="name" placeholder="Full Name"/>
-	</div>
-	<div class="field half">
-		<input type="email" id="email" name="email" placeholder="Email Address">
-	</div>
-	<div class="field">
-		<textarea name="message" id="message" rows="4" placeholder="Message"></textarea>
-	</div>
-	<ul class="actions">
-		<li><input type="submit" value="Send message" class="special" /></li>
-		<li><input type="reset" value="Clear entries" /></li>
-	</ul>
-	<input type="hidden" name="_next" value="?sent#formspree" />
-	<input type="hidden" name="_subject" value="Missatge del web" />
-	<input type="text" name="_gotcha" style="display:none" />
-</form>
-<span id="contactformsent">Thank you for your message! Some one will get back to you soon...</span>
-
-<script>
-$(document).ready(function($) { 
-    $(function(){
-        if (window.location.search == "?sent") {
-        	$('#contactform').hide();
-        	$('#contactformsent').show();
-        } else {
-        	$('#contactformsent').hide();
-        }
-    });
-});
-</script>
+<a href="mailto:info@mespilus.org?subject=Més%20informació%20si%20us%20plau!" target="_top"><b>Request more information!</b></a>
 
 {{< socialLinks >}}
