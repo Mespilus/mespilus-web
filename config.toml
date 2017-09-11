@@ -4,7 +4,7 @@ theme = "dimension"
 languageCode = "es-ca"
 defaultContentLanguage = "ca"
 enableRobotsTXT = true
-disableRSS = true
+disableKinds = ["RSS"]
 publishDir = "docs"
 
 [params]
