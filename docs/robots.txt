@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mespilus.github.io/mespilus-web/sitemap.xml
+Sitemap: https://mespilus.org/sitemap.xml
