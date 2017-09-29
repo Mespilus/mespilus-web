@@ -13,3 +13,10 @@ li > p {
     height: auto;
     margin-bottom: 6px;
 }
+
+#header .content p {
+    font-size: 0.8rem;
+}
+#header nav ul li a {
+    min-width: 8.5rem;
+}
