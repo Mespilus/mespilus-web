@@ -6,5 +6,5 @@
   {{ if or .Params.author .Params.date }}
     <h5>{{ .Params.author }}{{ if .Date }} -- {{ .Date.Day }} {{ index $.Site.Data.mesos (printf "%d" .Date.Month) }} de {{ .Date.Year }}{{ end }}</h5>
   {{ end }}
-  <div> {{.Content}} </div>
+  <div> {{ .Content }} </div>
 </div>
