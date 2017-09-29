@@ -913,7 +913,7 @@ button {
     #header .content p {
       text-transform: uppercase;
       letter-spacing: 0.2rem;
-      /*font-size: 0.8rem;*/
+      font-size: 0.8rem;
       line-height: 2; }
   #header nav ul {
     display: -moz-flex;
@@ -932,7 +932,7 @@ button {
         border-left: 0; }
       #header nav ul li a {
         display: block;
-        min-width: 9.5rem;
+        min-width: 7.5rem;
         height: 2.75rem;
         line-height: 2.75rem;
         padding: 0 1.25rem 0 1.45rem;
