@@ -1,0 +1,15 @@
+li > p {
+  margin: 0 0 0.6rem 0;
+}
+.m-logo { margin-bottom:8px; opacity:0.85;}
+
+/* blog post styling */
+
+.post_feat_img {
+    position:relative;
+    top:50%;
+    left:33%;
+    width: 33%;
+    height: auto;
+    margin-bottom: 6px;
+}
